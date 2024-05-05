@@ -1,0 +1,1 @@
+# mindpal_flutter_app
